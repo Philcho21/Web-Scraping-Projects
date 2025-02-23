@@ -1,9 +1,9 @@
-***ABOUT DATA***
+# ABOUT DATA
 
 Data was obtained from the Glassdoor job site by scraping using selenium and chromium and sparsed using BeautifulSoup.<b>
-**NOTE**: **This was for Educational purposes only**
+# NOTE: **This was for Educational purposes only**
 
-**Dataset Description**<b>
+#Dataset Description
 The dataset column names are self-describing <b>
 
 For the cleaning and exploration, all details are included in the notebook
